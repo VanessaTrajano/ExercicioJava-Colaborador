@@ -8,5 +8,5 @@ Esse projeto foi feito como um exercício de estudos e prática do tema de Heran
 
 ## Tecnologias Utilizadas
 <div display="flex">
-  <img align="center" alt="HTML" height="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img align="center" alt="Java" height="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 </div>
